@@ -67,8 +67,9 @@
 
 #services-section .services-container .box p {
   font-size: .8rem;
-  line-height: 1.5;
-  color: #b3b3b3;
+  line-height: 1.8;
+  font-weight: 500;
+  color: #828282;
 }
 
 #services-section .services-container .box.blue {

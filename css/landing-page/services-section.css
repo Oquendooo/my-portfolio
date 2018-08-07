@@ -47,6 +47,40 @@
 
 #services-section .services-container .box:hover {
   background: rgba(255, 255, 255, 1);
+  border-radius: 5px;
+  border-top: 1px solid #52b8ff;
+  border-left: 1px solid #52b8ff;
+  border-right: 1px solid #52b8ff;
+  -webkit-box-shadow: 0px 40px 74px 24px rgba(0, 0, 0, 0.08);
+  -moz-box-shadow: 0px 40px 74px 24px rgba(0, 0, 0, 0.08);
+  box-shadow: 0px 40px 74px 24px rgba(0, 0, 0, 0.08);
+}
+
+#services-section .services-container .box.blue:hover {
+  background: rgba(255, 255, 255, 1);
+  border-top: 1px solid #52b8ff;
+  border-left: 1px solid #52b8ff;
+  border-right: 1px solid #52b8ff;
+  -webkit-box-shadow: 0px 40px 74px 24px rgba(0, 0, 0, 0.08);
+  -moz-box-shadow: 0px 40px 74px 24px rgba(0, 0, 0, 0.08);
+  box-shadow: 0px 40px 74px 24px rgba(0, 0, 0, 0.08);
+}
+
+#services-section .services-container .box.red:hover {
+  background: rgba(255, 255, 255, 1);
+  border-top: 1px solid #ff5253;
+  border-left: 1px solid #ff5253;
+  border-right: 1px solid #ff5253;
+  -webkit-box-shadow: 0px 40px 74px 24px rgba(0, 0, 0, 0.08);
+  -moz-box-shadow: 0px 40px 74px 24px rgba(0, 0, 0, 0.08);
+  box-shadow: 0px 40px 74px 24px rgba(0, 0, 0, 0.08);
+}
+
+#services-section .services-container .box.yellow:hover {
+  background: rgba(255, 255, 255, 1);
+  border-top: 1px solid #ffc853;
+  border-left: 1px solid #ffc853;
+  border-right: 1px solid #ffc853;
   -webkit-box-shadow: 0px 40px 74px 24px rgba(0, 0, 0, 0.08);
   -moz-box-shadow: 0px 40px 74px 24px rgba(0, 0, 0, 0.08);
   box-shadow: 0px 40px 74px 24px rgba(0, 0, 0, 0.08);

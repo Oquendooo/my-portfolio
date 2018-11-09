@@ -116,7 +116,7 @@
 }
 
 #portfolio-section .portfolio-container .box.image2 .image {
-  background: url('../../img/sneakerstore.png');
+  background: url('../../img/online-clothing-store.png');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -130,7 +130,7 @@
 }
 
 #portfolio-section .portfolio-container .box.image3 .image {
-  background: url('../../img/veganrestaurant.png');
+  background: url('../../img/sneakerstore.png');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -144,7 +144,7 @@
 }
 
 #portfolio-section .portfolio-container .box.image4 .image {
-  background: url('https://image.ibb.co/kJCLXp/Responsive_Email.png');
+  background: url('../../img/veganrestaurant.png');
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
@@ -158,8 +158,8 @@
 }
 
 #portfolio-section .portfolio-container .box.image5 .image {
-  background: url('https://cdn.dribbble.com/users/203446/screenshots/4862649/time_1.png');
-  background: url('../../img/comingsoon.jpg');
+  background: url('');
+  background: url('https://image.ibb.co/kJCLXp/Responsive_Email.png');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
